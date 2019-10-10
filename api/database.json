@@ -1,0 +1,102 @@
+{
+    "Employees": [
+    {
+        "id": 1,
+        "name": "Michelle Jim",
+        "computerId": 5,
+        "departmentId": 3
+    },
+    {
+        "id": 2,
+        "name": "Noel Ape",
+        "computerId": 2,
+        "departmentId": 4
+    },
+    {
+        "id": 3,
+        "name": "Bob Sagget",
+        "computerId": 3,
+        "departmentId": 3
+    },
+    {
+        "id": 4,
+        "name": "Billy Flounder",
+        "computerId": 4,
+        "departmentId": 2
+    },
+    {
+        "id": 5,
+        "name": "Harry Potter",
+        "computerId": 1,
+        "departmentId": 1
+    },
+    {
+        "id": 6,
+        "name": "Creed",
+        "computerId": 1,
+        "departmentId": 5
+    }
+
+    ],
+
+    "Departments": [
+    {
+        "id": 1,
+        "name": "Sales"
+
+    },
+    {
+        "id": 2,
+        "name": "Operations"
+
+    },
+    {
+        "id": 3,
+        "name": "Maintence"
+
+    },
+    {
+        "id": 4,
+        "name": "Information Tech"
+
+    },
+    {
+        "id": 5,
+        "name": "Accounting"
+
+    }
+    ],
+
+    "Computers": [
+    {
+
+        "id": 1,
+        "name": "2015 Macbook Pro"
+
+    },
+    {
+
+        "id": 2,
+        "name": "Dell Inspirion"
+
+    },
+    {
+
+        "id": 3,
+        "name": "surface pro 6"
+
+    },
+    {
+
+        "id": 4,
+        "name": "lenovo"
+
+    },
+    {
+
+        "id": 5,
+        "name": "tablet"
+
+    }
+    ]
+}
